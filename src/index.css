@@ -56,7 +56,7 @@ body{
   margin-right: -80px;
 }
 .jigarrang{
-  background-image: url(./img/Rectangle\ \(3\).png);
+  background-image: url(../public/img/jigarrang-bg.png);
   max-width: 665px;
   padding: 50px;
 }
@@ -74,13 +74,13 @@ margin-top: 100px;
   margin-top: 72px;
 }
 .pink{
-  background-image: url(img/pink.png);
+  background-image: url(../public/img/pink.png);
   max-width: 665px;
   padding: 50px;
   background-size: cover;
 }
 .en{
-  background-image: url(./img/Rectangle\ \(8\).png);
+  background-image: url(../public/img/jigarrang-bg2.png);
   height:643px;
 }
 .halva{
