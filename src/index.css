@@ -1,0 +1,112 @@
+.aaaaaaaaaaaaaaaa{
+  background-color: #ED7B49;
+}
+body{
+  background-color: #F5AFB9;
+
+}
+.wild{
+  margin-top: 300px;
+}
+.otasi {
+  background-image: url(../public/img/dori.png);
+  background-size: cover;
+  background-position: center;
+}
+.navbar-nav {
+  font-size: 15px;
+  text-transform: uppercase;
+}
+.qol {
+  margin-top: 40px;
+}
+.button {
+  height: 57px;
+  background-color: #000000b2;
+  border-radius: 78px;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 11px 8px 10px 5px;
+  margin-top: 270px;
+  gap: 130px;
+
+}
+.ok {
+  border-radius: 17.5px;
+  background-color: #f5afb9;
+}
+.rang{
+  background-color: #72A080;
+  margin-top: 30px;
+}
+.poco{
+  margin-top: -120px;
+}
+.dori-1{
+  margin-top: 218px;
+}
+.dorilar{
+  margin-top: 70px;
+}
+.edit{
+  margin-top: 250px;
+}
+.tepa{
+  margin-right: -80px;
+}
+.jigarrang{
+  background-image: url(./img/Rectangle\ \(3\).png);
+  max-width: 665px;
+  padding: 50px;
+}
+.popan-text p{
+  font-family: sans-serif;
+line-height: 25.2px;
+text-align: center;
+margin-bottom: -30px;
+margin-top: 100px;
+}
+.popangada{
+  background-color:#E9A8C6;
+}
+.store{
+  margin-top: 72px;
+}
+.pink{
+  background-image: url(img/pink.png);
+  max-width: 665px;
+  padding: 50px;
+  background-size: cover;
+}
+.en{
+  background-image: url(./img/Rectangle\ \(8\).png);
+  height:643px;
+}
+.halva{
+  margin-top: 400px;
+}
+.recipes{
+  margin-top: 301px;
+}
+.chiziq{
+ max-width: 445px;
+height: 2px;
+background-color: black;
+}
+.top{
+  margin-top: 113px;
+}
+.Futtr{
+  background-color: #BE5A4B;
+}
+.auf{
+  margin-top: 135px;
+  margin-bottom: 116px;
+}
+.the-end{
+  background-color: #BE5A4B;
+}
+.bm{
+  margin-top: 69px;
+}
